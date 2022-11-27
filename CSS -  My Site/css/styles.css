@@ -1,0 +1,198 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  margin: 0;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #EAF6F6;
+}
+
+h1 {
+  font-family: 'Bad Script', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.hobbie-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.img1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.img2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.img3 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img4 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.img5 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.profile {
+  width: 40%;
+  margin: 15px auto 15px auto;
+  padd
+}
+
+.bottom-container {
+  line-height: 2;
+  background-color: #66BFBF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.middle-container {
+  padding-bottom: 40px;
+}
+
+p {
+  color: #40514E;
+}
+
+.img {
+ width: 66%;
+ margin: 10px auto 10px auto;
+}
+
+hr {
+  height: 0;
+  border-style: dotted;
+  border-width: thick;
+  border-bottom: 0;
+  width: 5%;
+  color: #BAD1C2;
+}
+
+.end {
+  color: #EAF6F6;
+}
+
+
+.cloud2 {
+  width: 200px;
+  position: absolute;
+  right: 300px;
+  bottom: 450px;
+
+}
+
+.cloud1 {
+  width: 200px;
+  position: relative;
+  right: 200px;
+}
+
+.rule {
+  height: 6px;
+  background-color: #E1FFEE;
+}
+
+
+.button-19 {
+  appearance: button;
+  background-color: #1899D6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round,sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 10%;
+}
+
+.button-19:after {
+  background-clip: padding-box;
+  background-color: #1CB0F6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-19:main,
+.button-19:focus {
+  user-select: auto;
+}
+
+.button-19:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-19:disabled {
+  cursor: auto;
+}
+}
